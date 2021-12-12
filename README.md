@@ -1,3 +1,3 @@
-A short Demo application for Spring-GraphQL project
+A short Demo application on basics of Spring-GraphQL project
 
-Technology : Reactive Spring, R2DBC, GraphQL
+Technology Used in the project : Reactive Spring, R2DBC, GraphQL
