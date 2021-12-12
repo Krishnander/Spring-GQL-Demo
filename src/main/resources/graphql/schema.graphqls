@@ -1,0 +1,13 @@
+type Query {
+    getFriends : [Friend]
+    getFriendByName (name : String) : [Friend]
+}
+
+type Friend {
+    name : String!
+    number : ID!
+}
+
+type Mutation {
+    addFriend (name : String) : Friend
+}

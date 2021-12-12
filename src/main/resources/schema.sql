@@ -1,0 +1,1 @@
+create table friends(name varchar(255) not null, number serial primary key);
